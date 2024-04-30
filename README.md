@@ -1,2 +1,5 @@
 # iris
-A Beginner level ML project that classifies Iris pedals and identifies flowers
+
+Iris classiciation tool following the tutorial from machinelearningmaster.com by Jason Brownlee
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
